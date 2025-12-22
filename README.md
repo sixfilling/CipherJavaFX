@@ -16,3 +16,5 @@ Commands:
 
 ## Notes
 The `dist/` and `target/` folders are build outputs and are intentionally not tracked in Git.
+
+###### I will add android support soon.
